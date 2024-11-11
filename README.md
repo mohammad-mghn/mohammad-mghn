@@ -4,8 +4,8 @@
 <a href="https://vito-dev.ir"><img src="moreDetails.ts.svg" alt="click to redirect to portfolio"></a>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/vito-mohagheghian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/vitomohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/vito-mohagheghian" target="_blank"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
- <a href="https://stackoverflow.com/users/16104004/vito-mohagheghian" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammad-mghn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/vitomohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/mohammad-mghn" target="_blank"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
+ <a href="https://stackoverflow.com/users/16104004/mohammad-mghn" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
 </div>
 
 <h2 align="center">Autobiography 📖</h2>
@@ -57,18 +57,18 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 <h2 align="center">Open Source Projects 🐙</h2>
 
 <div align="center" justify="center">
-<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=transparent&hide_border=true&name=vito&"></a> <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=transparent&hide_border=true&"></a>&nbsp;
+<a href="https://github.com/mohammad-mghn/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=wins-11&theme=transparent&hide_border=true&name=vito&"></a> <a href="https://github.com/mohammad-mghn/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=dev-tab&theme=transparent&hide_border=true&"></a>&nbsp;
 </div>
 
 <h2 align="center">Github Status 👻</h2>
 
 <div align="center">
   <div>
-    <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=transparent&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://github.com/mohammad-mghn" title="Go to Source">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=mohammad-mghn&show_icons=true&theme=transparent&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=transparent&hide_border=true" />
+    <a href="https://github.com/mohammad-mghn" title="Go to Source">
+      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-mghn&theme=transparent&hide_border=true" />
     </a>
   </div>
   <br>
