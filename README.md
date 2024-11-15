@@ -68,7 +68,7 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=mohammad-mghn&show_icons=true&theme=transparent&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/mohammad-mghn" title="Go to Source">
-      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-mghn&theme=transparent&hide_border=true" />
+      <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-mghn&theme=transparent&hide_border=true)](https://git.io/streak-stats" />
     </a>
   </div>
   <br>
