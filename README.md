@@ -4,8 +4,8 @@
 <a href="https://vito-dev.ir"><img src="moreDetails.ts.svg" alt="click to redirect to portfolio"></a>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/mohammad-mohagheghian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/vitomohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/mohammad-mghn" target="_blank"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
- <a href="https://stackoverflow.com/users/16104004/mohammad-mghn" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammad-mohagheghian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/mohammad-mghn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://x.com/mohammadmghn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/mohammad-mghn" target="_blank"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
+ <a href="https://stackoverflow.com/users/16104004/mohammad-mghn" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/mohammad__mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
 </div>
 
 <h2 align="center">Autobiography 📖</h2>
@@ -13,7 +13,7 @@
 <b>
  <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp; 
-I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from Isfahan, Iran 🏙️. Front-end specialist passionate about turning ideas 💡 into tech reality. Began with Python 🐍 in high school, shifted to captivating UI via JavaScript ⚰️, CSS, Tailwindcss and so on. Love startups 🫰, aiming to stretch my imagination's limits 🚦. Explore my work and collaborations! 🚀
+I'm Mohammad Mohagheghian 👋, a Front-end Developer 🧑‍💻 from Isfahan, Iran 🏙️. Front-end specialist passionate about turning ideas 💡 into tech reality. Began with Python 🐍 in high school, shifted to captivating UI via JavaScript ⚰️, CSS, Tailwindcss and so on. Love startups 🫰, aiming to stretch my imagination's limits 🚦. Explore my work and collaborations! 🚀
  </p>
 </b> 
 
