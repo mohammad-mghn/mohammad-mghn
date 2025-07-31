@@ -12,11 +12,12 @@
 
 <b>
  <p>
-I'm Mohammad Mohagheghian 👋, a Front-end Developer 🧑‍💻 from Isfahan, Iran 🏙️. I'm passionate about transforming ideas 💡 into technical reality. I began my journey with Python 🐍 in high school and later shifted my focus to creating captivating UIs using JavaScript, CSS, Tailwind CSS, and more. I love working with startups 🫰 and always aim to push the boundaries of my imagination 🚦. Explore my work and collaborations below! 🚀
+I’m a passionate Front-end Developer turning ideas into seamless, impactful digital experiences! 🎨🚀 Specializing in JavaScript, React, and modern tools, I create responsive, user-friendly interfaces that engage and solve real-world challenges. 🖥️😊
+Self-taught since my teens, I love mastering cutting-edge tech and teaming up with innovators to deliver game-changing solutions! 🌟🤝 From optimizing performance to boosting UX, I’m all about creating value through code! 💪🔥 <a href="mailto:vito.mohagheghian@gmail.com">Let’s collaborate! 📩🎉</a> 
  </p>
 </b>
 
-<h3><a href="https://mghn.info">Learn More on My Portfolio</a></h3>
+<h3><a href="https://mghn.info">More on My Portfolio</a></h3>
 
 <h2>My Current Tech Stack 🚀</h2>
 
@@ -53,14 +54,14 @@ I'm Mohammad Mohagheghian 👋, a Front-end Developer 🧑‍💻 from Isfahan, 
 <h2>Open Source Projects I Own 🐙</h2>
 
 <div>
-<a href="https://github.com/mohammad-mghn/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=wins-11&theme=transparent&hide_border=true&name=vito&"></a> <a href="https://github.com/mohammad-mghn/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=dev-tab&theme=transparent&hide_border=true&"></a>
+<a href="https://github.com/mohammad-mghn/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=wins-11&theme=github_dark&hide_border=true&show_icons=true&bg_color=00000000"></a> <a href="https://github.com/mohammad-mghn/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=dev-tab&theme=github_dark&hide_border=true&"></a>
 </div>
 
 <h2>Open Source Projects I've Contributed To 🐙</h2>
 
 <div>
-<a href="https://github.com/widgetify-app/widgetify-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=widgetify-app&repo=widgetify-extension&theme=transparent&hide_border=true"></a>
-<a href="https://github.com/AmruthPillai/Reactive-Resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmruthPillai&repo=Reactive-Resume&theme=transparent&hide_border=true&name=widgetify&"></a>
+<a href="https://github.com/widgetify-app/widgetify-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=widgetify-app&repo=widgetify-extension&theme=github_dark&hide_border=true"></a>
+<a href="https://github.com/AmruthPillai/Reactive-Resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmruthPillai&repo=Reactive-Resume&theme=github_dark&hide_border=true&name=widgetify&"></a>
 </div>
 
 <h2>Support Me 🫠</h2>
